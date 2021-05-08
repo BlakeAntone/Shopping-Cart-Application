@@ -1,0 +1,9 @@
+C:\Users\Ba12a\Desktop\CIS4930(C#)\Assignment4Application\Library.Product\bin\Debug\netstandard2.0\Library.Product.deps.json
+C:\Users\Ba12a\Desktop\CIS4930(C#)\Assignment4Application\Library.Product\bin\Debug\netstandard2.0\Library.Product.dll
+C:\Users\Ba12a\Desktop\CIS4930(C#)\Assignment4Application\Library.Product\bin\Debug\netstandard2.0\Library.Product.pdb
+C:\Users\Ba12a\Desktop\CIS4930(C#)\Assignment4Application\Library.Product\obj\Debug\netstandard2.0\Library.Product.AssemblyInfoInputs.cache
+C:\Users\Ba12a\Desktop\CIS4930(C#)\Assignment4Application\Library.Product\obj\Debug\netstandard2.0\Library.Product.AssemblyInfo.cs
+C:\Users\Ba12a\Desktop\CIS4930(C#)\Assignment4Application\Library.Product\obj\Debug\netstandard2.0\Library.Product.csproj.CoreCompileInputs.cache
+C:\Users\Ba12a\Desktop\CIS4930(C#)\Assignment4Application\Library.Product\obj\Debug\netstandard2.0\Library.Product.dll
+C:\Users\Ba12a\Desktop\CIS4930(C#)\Assignment4Application\Library.Product\obj\Debug\netstandard2.0\Library.Product.pdb
+C:\Users\Ba12a\Desktop\CIS4930(C#)\Assignment4Application\Library.Product\obj\Debug\netstandard2.0\Library.Product.csprojAssemblyReference.cache

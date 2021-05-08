@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lCjFWtZVCWTFxLTYe4kfKEpOiBQ62Me0e9OBsfLfdSSuGBIWcTi4dQuFVIvEVpsvF0PO0YNiVSj5eot9/Xrt0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ba12a\\Desktop\\FSU\\Spring 2021\\CIS4930(C#)\\Assignment4\\Assignment4Application\\Library.Product\\Library.Product.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ba12a\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ba12a\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Ba12a\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
